@@ -1,0 +1,13 @@
+README.md
+setup.py
+device-manager/BackendHandler.py
+device-manager/__init__.py
+device-manager/app.py
+device-manager/deviceManager.py
+device-manager/templateManager.py
+device-manager/utils.py
+device_manager.egg-info/PKG-INFO
+device_manager.egg-info/SOURCES.txt
+device_manager.egg-info/dependency_links.txt
+device_manager.egg-info/requires.txt
+device_manager.egg-info/top_level.txt
